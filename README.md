@@ -1,2 +1,3 @@
 # dask-collections-webinar
-Notebooks from Dask Collections webinar
+
+Notebooks used in the Dask Collections webinar.
